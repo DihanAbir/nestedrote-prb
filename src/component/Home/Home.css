@@ -1,0 +1,11 @@
+.home-container{
+    display: flex
+}
+.details{
+    width:40%;
+    background: gray;
+    height: 100vh;
+}
+.imege{
+    display: flex
+}
